@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# mening kompuyuterim
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Mening fayllarim
 
 In the project directory, you can run:
 
