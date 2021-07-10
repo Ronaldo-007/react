@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import logo from '.file:///home/muhammadali/Downloads/Telegram%20Desktop/images';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"file:///home/muhammadali/Downloads/Telegram%20Desktop/images"} className="App-logo" alt="logo" />
         <p>
          Salom xammaga do'stlarim
         </p>
